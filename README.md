@@ -1,2 +1,4 @@
 # things-i-learned-in-swift
-Things I learned in Swift, just to remember and share 'em
+Topics:
+- [Protocol Extensions](/ProtocolExtensions.md)
+- [RandomNumberGenerator](/RandomNumberGenerator.md)
