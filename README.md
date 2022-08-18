@@ -1,3 +1,3 @@
 # Topics:
-- [Protocol Extensions](/ProtocolExtensions.md)
+- [Protocol + Extension](/ProtocolExtensions.md)
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
