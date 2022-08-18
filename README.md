@@ -1,4 +1,3 @@
-# things-i-learned-in-swift
-Topics:
+# Topics:
 - [Protocol Extensions](/ProtocolExtensions.md)
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
