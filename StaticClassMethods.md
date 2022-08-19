@@ -1,7 +1,7 @@
 # Static Class Methods
-
+I was working on a piece of code that needed a handy tool, a handy `class` to just call methods.
 ### First approach
-I was working on a piece of code that needed a handy tool, a handy `class` for just calling a method, something like this:
+I started with something like this:
 ``` Swift
 class Foo {
 
