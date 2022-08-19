@@ -1,4 +1,6 @@
 # Static Class Methods
+
+### First approach
 I was working on a piece of code that needed a handy tool, a handy `class` for just calling a method, something like this:
 ``` Swift
 class Foo {
@@ -55,3 +57,24 @@ class Foo {
 }
 ```
  
+And then it was OK to continue coding.
+But I've been thinking of another approach to achieve the same functionality today and then I've just noticed `enum`s!
+
+### Second approach
+Defining an `enum` with no cases.
+
+``` Swift
+enum Foo {
+    
+    private static func a() { }
+    
+    private static func b() { }
+
+    static func bar() {
+      a()
+      b()
+    }
+}
+```
+
+In both approaches it's possible to call `Foo.bar()` and not possible to call `Foo()`.
