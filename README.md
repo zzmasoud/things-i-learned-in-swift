@@ -5,3 +5,4 @@
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
 
 ## iOS & Xcode:
+- [Changing simulator time (for screenshots)](/ChangingSimulatorTimeForScreenshots.md)
