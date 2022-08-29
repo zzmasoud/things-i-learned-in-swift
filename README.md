@@ -1,3 +1,4 @@
+![Swift logo](https://www.bleepstatic.com/content/hl-images/2017/03/18/apple-swift.jpg)
 # Topics:
 ## Swift:
 - [Static Class Methods](/StaticClassMethods.md)
