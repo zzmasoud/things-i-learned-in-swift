@@ -38,7 +38,6 @@ block("second try") {
 ```
 And the output in the console will be:
 ```
-
  --------  first try  --------
 18
 
