@@ -4,13 +4,34 @@ We love to play in a playground! I hate it when I see compiler errors in a playg
 
 ### Helper Function
 You can make a new file in the playground sources files and add this helper function:
-```
+```swift
 public func block(label: String,
                     code: () -> Void) {
   print("\n", "-------- ", label, " --------")
   code()
 }
 ```
+
+### How To Use It
+In the playground:
+
+```swift
+block(label: "first try") {
+    var x = 10
+    func test() { 
+        print(x+3)
+    }
+}
+
+block(label: "second try") {
+    var x = 10
+    func test() { 
+        print(x-3)
+    }
+}
+```
+And the output in the console will be:
+
 
 This way you can use duplicate codes for each block and also it prints out in console with clear seperator.
 
