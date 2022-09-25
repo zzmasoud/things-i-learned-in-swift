@@ -17,3 +17,4 @@ App Uses Non-Exempt Encryption
 ```
 
 ### Reference
+https://developer.apple.com/documentation/bundleresources/information_property_list/itsappusesnonexemptencryption
