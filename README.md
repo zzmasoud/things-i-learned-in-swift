@@ -7,5 +7,5 @@
 
 ## iOS & Xcode:
 - [Changing simulator time (for screenshots)](/ChangingSimulatorTimeForScreenshots.md)
-- Bypass encyption warning
+- [Bypass encyption warning](/BypassEncyptionWarning.md)
 
