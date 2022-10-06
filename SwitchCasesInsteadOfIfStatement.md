@@ -23,3 +23,17 @@ func alertUser(in location: Location, andWeather weather: Weather, needsEyeProte
     return nil
 }
 ```
+With the power of enums and switch/case statement, it can be easier:
+
+```swift
+func alertUser(in location: Location, andWeather weather: Weather, needsEyeProtection: Bool) -> String? {
+    switch (location, weather) {
+    case (.inside, _):
+        return "let's go out!"
+    case (.outside, _) where needsEyeProtection:
+        return "Don't forget your sunglasses"
+    case (.outside, _):
+        return "What a beautiful day :)"
+    }
+}
+```
