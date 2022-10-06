@@ -4,6 +4,7 @@
 - [Static Class Methods](/StaticClassMethods.md)
 - [Protocol + Extension](/ProtocolExtensions.md)
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
+- [Switch/Case Instead of If](/SwitchCasesInsteadOfIfStatement.md)
 
 ## iOS & Xcode:
 - [Changing simulator time (for screenshots)](/ChangingSimulatorTimeForScreenshots.md)
