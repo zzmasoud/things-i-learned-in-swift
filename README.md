@@ -6,7 +6,8 @@
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
 - [Switch/Case Instead of If](/SwitchCasesInsteadOfIfStatement.md)
 
+
 ## iOS & Xcode:
 - [Changing simulator time (for screenshots)](/ChangingSimulatorTimeForScreenshots.md)
 - [Bypass encyption warning](/BypassEncyptionWarning.md)
-
+- [Block of Code In Playground](/BlockOfCodeInPlayground.md)
