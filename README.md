@@ -5,6 +5,7 @@
 - [Protocol + Extension](/ProtocolExtensions.md)
 - [RandomNumberGenerator](/RandomNumberGenerator.md)
 - [Switch/Case Instead of If](/SwitchCasesInsteadOfIfStatement.md)
+- [Debouncer With DispatchWorkItem](/DebounceWithDispatchWorkItem.md)
 
 
 ## iOS & Xcode:
